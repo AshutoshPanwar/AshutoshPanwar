@@ -57,7 +57,7 @@
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshPanwarAshutoshPanwar&show_icons=true&theme=dark&hide_title=true)](https://github.com/AshutoshPanwar)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPanwar&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/AshutoshPanwar)|![Ashutosh Panwar](https://github-readme-streak-stats.herokuapp.com/?user=AshutoshPanwar&theme=dark)
+|[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshPanwar&show_icons=true&theme=dark&hide_title=true)](https://github.com/AshutoshPanwar)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPanwar&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/AshutoshPanwar)|![Ashutosh Panwar](https://github-readme-streak-stats.herokuapp.com/?user=AshutoshPanwar&theme=dark)
 <hr>
 
 <!-- START NEW SECTION -->
