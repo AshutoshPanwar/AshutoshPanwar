@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Ashutosh Panwar!
-<img align="right" alt="Coding" width="300" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="300" height="250" src="https://miro.medium.com/max/700/1*zlmwtg3fog11YXcU_rvfWA.gif">
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 
