@@ -47,7 +47,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ankit-jailwal&theme=radical&margin-w=40&margin-h=40)](https://github.com/Ankit-jailwal)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshutoshPanwar&theme=radical&margin-w=40&margin-h=40)](https://github.com/AshutoshPanwar)
 
 <hr>
 
@@ -57,13 +57,13 @@
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit-jailwal&show_icons=true&theme=dark&hide_title=true)](https://github.com/AshutoshPanwar)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPanwar&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/AshutoshPanwar)|![Ashutosh Panwar](https://github-readme-streak-stats.herokuapp.com/?user=AshutoshPanwar&theme=dark)
+|[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshPanwarAshutoshPanwar&show_icons=true&theme=dark&hide_title=true)](https://github.com/AshutoshPanwar)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPanwar&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/AshutoshPanwar)|![Ashutosh Panwar](https://github-readme-streak-stats.herokuapp.com/?user=AshutoshPanwar&theme=dark)
 <hr>
 
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ankit-jailwal}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AshutoshPanwar}/count.svg" /></p> 
 <br></div>
 
 
