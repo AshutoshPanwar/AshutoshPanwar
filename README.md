@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Ashutosh Panwar!
-<img align="right" alt="Coding" width=500  src="https://miro.medium.com/max/700/1*zlmwtg3fog11YXcU_rvfWA.gif">
+<img align="right" alt="Coding" width=500  src="https://www.samarpaninfotech.com/wp-content/uploads/2020/09/WordPress-developer-slider-img.png">
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 
